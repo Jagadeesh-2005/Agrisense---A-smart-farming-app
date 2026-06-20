@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_KEY = "f34f900e62d148c4843f002f7f85e69c"   # 🔥 replace with your key
+API_KEY = "Enter your api key"   # 🔥 replace with your key
 
 
 # ============================
