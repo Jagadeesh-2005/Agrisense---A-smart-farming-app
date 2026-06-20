@@ -1,7 +1,7 @@
 from openai import OpenAI
 import streamlit as st
 
-client = OpenAI(api_key="AIzaSyDCUnlHxlv-Ngk7IZWDB06cIBjTbf7kE0s")
+client = OpenAI(api_key="Enter your Api key")
 def generate_suggestions(crop):
 
     try:
